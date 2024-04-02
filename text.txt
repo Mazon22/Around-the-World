@@ -1,0 +1,20 @@
+Результат settings.json:
+{
+    "name": "Misha",
+    "age": 16,
+    "birthday": "22 октября",
+    "hobby": "футбол",
+    "is_married": false,
+    "pets": [
+        "кошка",
+        "собака"
+    ]
+}
+
+Результат в более простом виде:
+Name: Misha
+Age: 16
+Birthday: 22 октября
+Hobby: футбол
+Married: False
+Pets: кошка, собака

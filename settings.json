@@ -1,0 +1,11 @@
+{
+    "name": "Misha",
+    "age": 16,
+    "birthday": "22 октября",
+    "hobby": "футбол",
+    "is_married": false,
+    "pets": [
+        "кошка",
+        "собака"
+    ]
+}
